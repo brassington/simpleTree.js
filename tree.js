@@ -13,7 +13,7 @@ var treeMaker = function (value) {
   return product;
 };
 
-//methods go here!
+// Methods to be inherited by the maker function start here!
 
 treeMaker.methods = {};
 
